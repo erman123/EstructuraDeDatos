@@ -1,0 +1,74 @@
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.exe.config
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.exe
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.pdb
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\MetroFramework.Design.dll
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\MetroFramework.dll
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmMenu.resources
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmArbolBinario.resources
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListaDobleCircular.resources
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListaDobles.resources
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListasimple.resources
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmPilaColas.resources
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.Properties.Resources.resources
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.csproj.GenerateResource.Cache
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.exe
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.pdb
+C:\Users\MAQUINA\Documents\Visual Studio 2015\Projects\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.csprojResolveAssemblyReference.cache
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.exe.config
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.exe
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.pdb
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.exe
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.pdb
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\MetroFramework.Design.dll
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\MetroFramework.dll
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\bin\Debug\MetroFramework.Fonts.dll
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.csprojResolveAssemblyReference.cache
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmMenu.resources
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmArbolBinario.resources
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListaDobleCircular.resources
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListaDobles.resources
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListasimple.resources
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmPilaColas.resources
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.Properties.Resources.resources
+E:\BLUE EVOLUTION\EstructuraDeDatos2017\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.csproj.GenerateResource.Cache
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.exe.config
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.exe
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.pdb
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.exe
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.pdb
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\MetroFramework.Design.dll
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\MetroFramework.dll
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\MetroFramework.Fonts.dll
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.csprojResolveAssemblyReference.cache
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmMenu.resources
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmArbolBinario.resources
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListaDobleCircular.resources
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListaDobles.resources
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListasimple.resources
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmPilaColas.resources
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.Properties.Resources.resources
+Z:\UPDS\Estructura de Datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.csproj.GenerateResource.Cache
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.exe.config
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.exe
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.pdb
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.exe
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.pdb
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\MetroFramework.Design.dll
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\MetroFramework.dll
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\MetroFramework.Fonts.dll
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.csprojResolveAssemblyReference.cache
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmMenu.resources
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmArbolBinario.resources
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListaDobleCircular.resources
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListaDobles.resources
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmListasimple.resources
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.frmPilaColas.resources
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.Properties.Resources.resources
+D:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.csproj.GenerateResource.Cache
+F:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.exe.config
+F:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.exe
+F:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.pdb
+E:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\bin\Debug\EstructuraDeDatos2017.exe.config
+E:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.exe
+E:\UPDS\Estructura de datos\Proyecto Estructura de Datos\EstructuraDeDatos2017\obj\Debug\EstructuraDeDatos2017.pdb
